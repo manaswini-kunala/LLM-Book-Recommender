@@ -2,7 +2,7 @@
 
 # 📚 Build a Semantic Book Recommender with LLMs
 
-This repository contains the complete codebase for the freeCodeCamp course **"Build a Semantic Book Recommender with LLMs – Full Course."** It walks you through creating a full-stack AI-powered book recommender system using large language models (LLMs), vector search, and a user-friendly web interface built with Gradio.
+This repo walks you through creating a full-stack AI-powered book recommender system using large language models (LLMs), vector search, and a user-friendly web interface built with Gradio.
 
 ---
 
